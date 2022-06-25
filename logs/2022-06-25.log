@@ -1,0 +1,97 @@
+2022/06/25 10:32:15 engine: [ Engine ] Starting engine
+2022/06/25 10:32:15 engine: [ Engine ] Using debug mode
+2022/06/25 10:32:15 engine: [ Engine ] Starting browser
+2022/06/25 10:32:16 engine: [ Engine ] Create a blank page
+2022/06/25 10:32:17 engine: [ Engine ] Ready to handle scraper
+
+2022/06/25 10:32:17 engine: [ Engine ] Server running on http://127.0.0.1:3000
+2022/06/25 10:32:17 engine: [ Engine ] Waiting for connection
+
+2022/06/25 10:32:18 engine: [ Engine ] Flow ID : 69c7fba7b647
+2022/06/25 10:32:18 engine: [ Engine ] Flow name : Capture Website Element & Fullscreen
+2022/06/25 10:32:18 engine: [ Engine ] Flow target : https://dummyimage.com/
+
+2022/06/25 10:32:18 engine: [ Engine ] Starting flow
+2022/06/25 10:32:29 engine: [ Engine ] Render recorded video
+2022/06/25 10:32:30 engine: [ Engine ] Sending result
+2022/06/25 10:32:30 engine: [ Engine ] Flow closed
+
+2022/06/25 10:32:32 engine: [ Engine ] Flow ID : fe1b1fc77806
+2022/06/25 10:32:32 engine: [ Engine ] Flow name : Extract Content from Website
+2022/06/25 10:32:32 engine: [ Engine ] Flow target : https://dummyimage.com/
+
+2022/06/25 10:32:32 engine: [ Engine ] Starting flow
+2022/06/25 10:32:34 engine: [ Engine ] Render recorded video
+2022/06/25 10:32:35 engine: [ Engine ] Sending result
+2022/06/25 10:32:35 engine: [ Engine ] Flow closed
+
+2022/06/25 10:32:37 engine: [ Engine ] Flow ID : 23ad6a4a585c
+2022/06/25 10:32:37 engine: [ Engine ] Flow name : Working with Advance Form
+2022/06/25 10:32:37 engine: [ Engine ] Flow target : https://bootstrap-vue.org/docs/components/form
+
+2022/06/25 10:32:37 engine: [ Engine ] Starting flow
+2022/06/25 10:32:53 engine: [ Engine ] Render recorded video
+2022/06/25 10:32:54 engine: [ Engine ] Sending result
+2022/06/25 10:32:54 engine: [ Engine ] Flow closed
+
+2022/06/25 10:32:56 engine: [ Engine ] Flow ID : 38d24269bf13
+2022/06/25 10:32:56 engine: [ Engine ] Flow name : Basic TodoMVC Form
+2022/06/25 10:32:56 engine: [ Engine ] Flow target : https://todomvc.com/examples/vue/
+
+2022/06/25 10:32:56 engine: [ Engine ] Starting flow
+2022/06/25 10:33:06 engine: [ Engine ] Trying to force click element .todo-list .todo:nth-child(1) button.destroy using JavaScript
+2022/06/25 10:33:08 engine: [ Engine ] Render recorded video
+2022/06/25 10:33:09 engine: [ Engine ] Sending result
+2022/06/25 10:33:09 engine: [ Engine ] Flow closed
+
+2022/06/25 10:33:11 engine: [ Engine ] Flow ID : f53ca2ec1fa6
+2022/06/25 10:33:11 engine: [ Engine ] Flow name : Infinite Scroll on Website
+2022/06/25 10:33:11 engine: [ Engine ] Flow target : https://infinite-scroll.com/demo/full-page/
+
+2022/06/25 10:33:11 engine: [ Engine ] Starting flow
+2022/06/25 10:33:17 engine: [ Engine ] Selector article:nth-child(1) img not found
+2022/06/25 10:33:23 engine: [ Engine ] Selector article:nth-child(3) img not found
+2022/06/25 10:33:26 engine: [ Engine ] Selector article:nth-child(4) h2.article__title not found
+2022/06/25 10:33:32 engine: [ Engine ] Selector article:nth-child(5) h2.article__title not found
+2022/06/25 10:33:35 engine: [ Engine ] Selector article:nth-child(6) h2.article__title not found
+2022/06/25 10:33:42 engine: [ Engine ] Selector article:nth-child(7) p not found
+2022/06/25 10:33:45 engine: [ Engine ] Selector article:nth-child(7) img not found
+2022/06/25 10:33:48 engine: [ Engine ] Selector article:nth-child(8) p not found
+2022/06/25 10:33:51 engine: [ Engine ] Selector article:nth-child(8) img not found
+2022/06/25 10:33:57 engine: [ Engine ] Selector article:nth-child(9) p not found
+2022/06/25 10:34:00 engine: [ Engine ] Selector article:nth-child(9) img not found
+2022/06/25 10:34:03 engine: [ Engine ] Selector article:nth-child(10) h2.article__title not found
+2022/06/25 10:34:03 engine: [ Engine ] Render recorded video
+2022/06/25 10:34:04 engine: [ Engine ] Sending result
+2022/06/25 10:34:04 engine: [ Engine ] Flow closed
+
+2022/06/25 10:34:06 engine: [ Engine ] Flow ID : 20d52a01fd02
+2022/06/25 10:34:06 engine: [ Engine ] Flow name : Pagination on Website
+2022/06/25 10:34:06 engine: [ Engine ] Flow target : https://wordpress.org/themes/
+
+2022/06/25 10:34:06 engine: [ Engine ] Starting flow
+2022/06/25 10:34:06 engine: [ Engine ] Limit items on page parameter more than ENV want 10 have 12
+2022/06/25 10:34:17 engine: [ Engine ] Render recorded video
+2022/06/25 10:34:18 engine: [ Engine ] Sending result
+2022/06/25 10:34:18 engine: [ Engine ] Flow closed
+
+2022/06/25 10:34:20 engine: [ Engine ] Flow ID : 2a81946b775d
+2022/06/25 10:34:20 engine: [ Engine ] Flow name : Extract Table from Website
+2022/06/25 10:34:20 engine: [ Engine ] Flow target : https://dummyimage.com/
+
+2022/06/25 10:34:20 engine: [ Engine ] Starting flow
+2022/06/25 10:34:26 engine: [ Engine ] Render recorded video
+2022/06/25 10:34:27 engine: [ Engine ] Sending result
+2022/06/25 10:34:27 engine: [ Engine ] Flow closed
+
+2022/06/25 10:34:29 engine: [ Engine ] Flow ID : 57778f254445
+2022/06/25 10:34:29 engine: [ Engine ] Flow name : Advance Website Navigation
+2022/06/25 10:34:29 engine: [ Engine ] Flow target : https://www.wikipedia.org/
+
+2022/06/25 10:34:29 engine: [ Engine ] Starting flow
+2022/06/25 10:34:35 engine: [ Engine ] Page Index 0
+2022/06/25 10:34:35 engine: [ Engine ] Navigate Url https://www.wikipedia.org/wiki/Taxonomy_(biology)
+2022/06/25 10:34:36 engine: [ Engine ] Render recorded video
+2022/06/25 10:34:37 engine: [ Engine ] Sending result
+2022/06/25 10:34:37 engine: [ Engine ] Flow closed
+

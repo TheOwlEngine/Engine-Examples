@@ -1,0 +1,39 @@
+{
+    "id": "38d24269bf13",
+    "code": 200,
+    "name": "Basic TodoMVC Form",
+    "slug": "basic-todomvc-form-38d24269bf13",
+    "proxy": "36.84.96.221",
+    "message": "The flow is running successfully",
+    "duration": 11969,
+    "engine": "http://127.0.0.1:3000",
+    "first_page": "https://todomvc.com/examples/vue/",
+    "items_on_page": 1,
+    "infinite": false,
+    "infinite_scroll": 0,
+    "paginate": false,
+    "paginate_limit": 0,
+    "record": true,
+    "recording": "https://owlengine.com/api/proxy?url=/resources/videos/basic-todomvc-form-38d24269bf13.mp4",
+    "result": [
+        {
+            "title": "Vue.js • TodoMVC",
+            "url": "https://todomvc.com/examples/vue/#/completed",
+            "page": 1,
+            "duration": 11727
+        }
+    ],
+    "usage": {
+        "disk": {
+            "videos": 7192088
+        },
+        "bandwidth": {
+            "document": 366,
+            "image": 0,
+            "other": 270,
+            "script": 1446,
+            "stylesheet": 492,
+            "xhr": 200
+        }
+    }
+}

@@ -1,2 +1,3 @@
-# Engine-Examples
-Examples of Flows and their results include Screenshots, JSON Documents, and Video Recordings
+# Engine Examples
+
+Contains the source code of the sample flow script, along with screenshots, output from the engine, and a recording of the entire process happening in a headless browser.

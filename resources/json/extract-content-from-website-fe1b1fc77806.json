@@ -1,0 +1,76 @@
+{
+    "id": "fe1b1fc77806",
+    "code": 200,
+    "name": "Extract Content from Website",
+    "slug": "extract-content-from-website-fe1b1fc77806",
+    "proxy": "36.84.96.221",
+    "message": "The flow is running successfully",
+    "duration": 2106,
+    "engine": "http://127.0.0.1:3000",
+    "first_page": "https://dummyimage.com/",
+    "items_on_page": 1,
+    "infinite": false,
+    "infinite_scroll": 0,
+    "paginate": false,
+    "paginate_limit": 0,
+    "record": true,
+    "recording": "https://owlengine.com/api/proxy?url=/resources/videos/extract-content-from-website-fe1b1fc77806.mp4",
+    "result": [
+        {
+            "title": "Dynamic Dummy Image Generator - DummyImage.com",
+            "url": "https://dummyimage.com/",
+            "page": 1,
+            "duration": 1896,
+            "content": [
+                {
+                    "type": "text",
+                    "length": 29,
+                    "name": "Title",
+                    "content": "Dynamic Dummy Image Generator"
+                },
+                {
+                    "type": "text",
+                    "length": 33,
+                    "name": "Author",
+                    "content": "by Russell Heimlich (@kingkool68)"
+                },
+                {
+                    "type": "image",
+                    "length": 38,
+                    "name": "Image",
+                    "content": "https://dummyimage.com/600x400/000/fff"
+                },
+                {
+                    "type": "anchor",
+                    "length": 26,
+                    "name": "Anchor 300",
+                    "content": "https://dummyimage.com/300"
+                },
+                {
+                    "type": "anchor",
+                    "length": 33,
+                    "name": "Anchor 16:9x1080",
+                    "content": "https://dummyimage.com/16:9x1080/"
+                },
+                {
+                    "type": "html",
+                    "length": 625,
+                    "name": "Image Format",
+                    "content": "<ul>\n<li>Adding an image file extension will render the image in the proper format</li>\n<li>Image format is optional and the default is a gif</li>\n<li>jpg and jpeg are the same</li>\n<li>The image extension can go at the end of any option in the url\n<ul>\n<li><a href=\"300.png/09f/fff\" target=\"_blank\" class=\"example correct\">https://dummyimage.com/300.png/09f/fff</a></li>\n<li><a href=\"300/09f.png/fff\" target=\"_blank\" class=\"example correct\">https://dummyimage.com/300/09f.png/fff</a></li>\n<li><a href=\"300/09f/fff.png\" target=\"_blank\" class=\"example correct\">https://dummyimage.com/300/09f/fff.png</a></li>\n</ul>\n</li>\n</ul>"
+                }
+            ]
+        }
+    ],
+    "usage": {
+        "disk": {
+            "videos": 506100
+        },
+        "bandwidth": {
+            "document": 292,
+            "image": 1737,
+            "other": 786,
+            "script": 1462,
+            "stylesheet": 2379
+        }
+    }
+}

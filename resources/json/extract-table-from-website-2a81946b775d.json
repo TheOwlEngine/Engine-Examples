@@ -1,0 +1,748 @@
+{
+    "id": "2a81946b775d",
+    "code": 200,
+    "name": "Extract Table from Website",
+    "slug": "extract-table-from-website-2a81946b775d",
+    "proxy": "36.84.96.221",
+    "message": "The flow is running successfully",
+    "duration": 5764,
+    "engine": "http://127.0.0.1:3000",
+    "first_page": "https://dummyimage.com/",
+    "items_on_page": 1,
+    "infinite": false,
+    "infinite_scroll": 0,
+    "paginate": false,
+    "paginate_limit": 0,
+    "record": true,
+    "recording": "https://owlengine.com/api/proxy?url=/resources/videos/extract-table-from-website-2a81946b775d.mp4",
+    "result": [
+        {
+            "title": "Dynamic Dummy Image Generator - DummyImage.com",
+            "url": "https://dummyimage.com/",
+            "page": 1,
+            "duration": 5609,
+            "content": [
+                {
+                    "type": "table",
+                    "length": 5043,
+                    "name": "Ad Sizes",
+                    "content": {
+                        "name": "Ad Sizes",
+                        "column": 4,
+                        "row": 18,
+                        "header": [
+                            {
+                                "index": 1,
+                                "length": 7,
+                                "content": "Keyword"
+                            },
+                            {
+                                "index": 2,
+                                "length": 9,
+                                "content": "Shortcuts"
+                            },
+                            {
+                                "index": 3,
+                                "length": 10,
+                                "content": "Dimensions"
+                            }
+                        ],
+                        "data": [
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 38,
+                                    "name": "mediumrectangle",
+                                    "content": "https://dummyimage.com/mediumrectangle"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 30,
+                                    "name": "medrect",
+                                    "content": "https://dummyimage.com/medrect"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "300×250"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 34,
+                                    "name": "squarepopup",
+                                    "content": "https://dummyimage.com/squarepopup"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 29,
+                                    "name": "sqrpop",
+                                    "content": "https://dummyimage.com/sqrpop"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "250×250"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 40,
+                                    "name": "verticalrectangle",
+                                    "content": "https://dummyimage.com/verticalrectangle"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 30,
+                                    "name": "vertrec",
+                                    "content": "https://dummyimage.com/vertrec"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "240×400"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 37,
+                                    "name": "largerectangle",
+                                    "content": "https://dummyimage.com/largerectangle"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 29,
+                                    "name": "lrgrec",
+                                    "content": "https://dummyimage.com/lrgrec"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "336×280"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 32,
+                                    "name": "rectangle",
+                                    "content": "https://dummyimage.com/rectangle"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 26,
+                                    "name": "rec",
+                                    "content": "https://dummyimage.com/rec"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "180×150"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 31,
+                                    "name": "popunder",
+                                    "content": "https://dummyimage.com/popunder"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 26,
+                                    "name": "pop",
+                                    "content": "https://dummyimage.com/pop"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "720×300"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 33,
+                                    "name": "fullbanner",
+                                    "content": "https://dummyimage.com/fullbanner"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 30,
+                                    "name": "fullban",
+                                    "content": "https://dummyimage.com/fullban"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 7,
+                                    "name": "Dimensions",
+                                    "content": "468×60"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 33,
+                                    "name": "halfbanner",
+                                    "content": "https://dummyimage.com/halfbanner"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 30,
+                                    "name": "halfban",
+                                    "content": "https://dummyimage.com/halfban"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 7,
+                                    "name": "Dimensions",
+                                    "content": "234×60"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 31,
+                                    "name": "microbar",
+                                    "content": "https://dummyimage.com/microbar"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 28,
+                                    "name": "mibar",
+                                    "content": "https://dummyimage.com/mibar"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 6,
+                                    "name": "Dimensions",
+                                    "content": "88×31"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 30,
+                                    "name": "button1",
+                                    "content": "https://dummyimage.com/button1"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 27,
+                                    "name": "but1",
+                                    "content": "https://dummyimage.com/but1"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 7,
+                                    "name": "Dimensions",
+                                    "content": "120×90"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 30,
+                                    "name": "button2",
+                                    "content": "https://dummyimage.com/button2"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 27,
+                                    "name": "but2",
+                                    "content": "https://dummyimage.com/but2"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 7,
+                                    "name": "Dimensions",
+                                    "content": "120×60"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 37,
+                                    "name": "verticalbanner",
+                                    "content": "https://dummyimage.com/verticalbanner"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 30,
+                                    "name": "vertban",
+                                    "content": "https://dummyimage.com/vertban"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "120×240"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 35,
+                                    "name": "squarebutton",
+                                    "content": "https://dummyimage.com/squarebutton"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 29,
+                                    "name": "sqrbut",
+                                    "content": "https://dummyimage.com/sqrbut"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "125×125"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 34,
+                                    "name": "leaderboard",
+                                    "content": "https://dummyimage.com/leaderboard"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 30,
+                                    "name": "leadbrd",
+                                    "content": "https://dummyimage.com/leadbrd"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 7,
+                                    "name": "Dimensions",
+                                    "content": "728×90"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 37,
+                                    "name": "wideskyscraper",
+                                    "content": "https://dummyimage.com/wideskyscraper"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 33,
+                                    "name": "wiskyscrpr",
+                                    "content": "https://dummyimage.com/wiskyscrpr"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "160×600"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 33,
+                                    "name": "skyscraper",
+                                    "content": "https://dummyimage.com/skyscraper"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 31,
+                                    "name": "skyscrpr",
+                                    "content": "https://dummyimage.com/skyscrpr"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "120×600"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 31,
+                                    "name": "halfpage",
+                                    "content": "https://dummyimage.com/halfpage"
+                                },
+                                {
+                                    "type": "anchor",
+                                    "index": 2,
+                                    "length": 27,
+                                    "name": "hpge",
+                                    "content": "https://dummyimage.com/hpge"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 3,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "300×600"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "length": 2070,
+                    "name": "Screen Standards",
+                    "content": {
+                        "name": "Screen Standards",
+                        "column": 2,
+                        "row": 12,
+                        "header": [
+                            {
+                                "index": 1,
+                                "length": 7,
+                                "content": "Keyword"
+                            },
+                            {
+                                "index": 2,
+                                "length": 10,
+                                "content": "Dimensions"
+                            }
+                        ],
+                        "data": [
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 26,
+                                    "name": "cga",
+                                    "content": "https://dummyimage.com/cga"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 7,
+                                    "name": "Dimensions",
+                                    "content": "320x200"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 27,
+                                    "name": "qvga",
+                                    "content": "https://dummyimage.com/qvga"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 7,
+                                    "name": "Dimensions",
+                                    "content": "320x240"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 26,
+                                    "name": "vga",
+                                    "content": "https://dummyimage.com/vga"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 7,
+                                    "name": "Dimensions",
+                                    "content": "640x480"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 27,
+                                    "name": "wvga",
+                                    "content": "https://dummyimage.com/wvga"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 7,
+                                    "name": "Dimensions",
+                                    "content": "800x480"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 27,
+                                    "name": "svga",
+                                    "content": "https://dummyimage.com/svga"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 7,
+                                    "name": "Dimensions",
+                                    "content": "800x480"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 28,
+                                    "name": "wsvga",
+                                    "content": "https://dummyimage.com/wsvga"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "1024x600"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 26,
+                                    "name": "xga",
+                                    "content": "https://dummyimage.com/xga"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "1024x768"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 27,
+                                    "name": "wxga",
+                                    "content": "https://dummyimage.com/wxga"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "1280x800"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 28,
+                                    "name": "wsxga",
+                                    "content": "https://dummyimage.com/wsxga"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "1440x900"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 28,
+                                    "name": "wuxga",
+                                    "content": "https://dummyimage.com/wuxga"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 9,
+                                    "name": "Dimensions",
+                                    "content": "1920x1200"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 28,
+                                    "name": "wqxga",
+                                    "content": "https://dummyimage.com/wqxga"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 9,
+                                    "name": "Dimensions",
+                                    "content": "2560x1600"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "length": 854,
+                    "name": "Video Standards",
+                    "content": {
+                        "name": "Video Standards",
+                        "column": 2,
+                        "row": 5,
+                        "header": [
+                            {
+                                "index": 1,
+                                "length": 7,
+                                "content": "Keyword"
+                            },
+                            {
+                                "index": 2,
+                                "length": 10,
+                                "content": "Dimensions"
+                            }
+                        ],
+                        "data": [
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 27,
+                                    "name": "ntsc",
+                                    "content": "https://dummyimage.com/ntsc"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 7,
+                                    "name": "Dimensions",
+                                    "content": "720x480"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 26,
+                                    "name": "pal",
+                                    "content": "https://dummyimage.com/pal"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 7,
+                                    "name": "Dimensions",
+                                    "content": "768x576"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 28,
+                                    "name": "hd720",
+                                    "content": "https://dummyimage.com/hd720"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 8,
+                                    "name": "Dimensions",
+                                    "content": "1280x720"
+                                }
+                            ],
+                            [
+                                {
+                                    "type": "anchor",
+                                    "index": 1,
+                                    "length": 29,
+                                    "name": "hd1080",
+                                    "content": "https://dummyimage.com/hd1080"
+                                },
+                                {
+                                    "type": "text",
+                                    "index": 2,
+                                    "length": 9,
+                                    "name": "Dimensions",
+                                    "content": "1920x1080"
+                                }
+                            ]
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "usage": {
+        "disk": {
+            "videos": 1628664
+        },
+        "bandwidth": {
+            "document": 855,
+            "image": 1729,
+            "other": 783,
+            "script": 1454,
+            "stylesheet": 2427
+        }
+    }
+}

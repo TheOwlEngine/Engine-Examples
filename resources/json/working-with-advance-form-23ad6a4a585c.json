@@ -1,0 +1,39 @@
+{
+    "id": "23ad6a4a585c",
+    "code": 200,
+    "name": "Working with Advance Form",
+    "slug": "working-with-advance-form-23ad6a4a585c",
+    "proxy": "36.84.96.221",
+    "message": "The flow is running successfully",
+    "duration": 15989,
+    "engine": "http://127.0.0.1:3000",
+    "first_page": "https://bootstrap-vue.org/docs/components/form",
+    "items_on_page": 1,
+    "infinite": false,
+    "infinite_scroll": 0,
+    "paginate": false,
+    "paginate_limit": 0,
+    "record": true,
+    "recording": "https://owlengine.com/api/proxy?url=/resources/videos/working-with-advance-form-23ad6a4a585c.mp4",
+    "result": [
+        {
+            "title": "Form | Components | BootstrapVue",
+            "url": "https://bootstrap-vue.org/docs/components/form",
+            "page": 1,
+            "duration": 15771
+        }
+    ],
+    "usage": {
+        "disk": {
+            "videos": 27816382
+        },
+        "bandwidth": {
+            "document": 225,
+            "image": 1078,
+            "other": 137,
+            "script": 3133,
+            "stylesheet": 1529,
+            "xhr": 20
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "id": "69c7fba7b647",
+    "code": 200,
+    "name": "Capture Website Element & Fullscreen",
+    "slug": "capture-website-element-and-fullscreen-69c7fba7b647",
+    "proxy": "36.84.96.221",
+    "message": "The flow is running successfully",
+    "duration": 10682,
+    "engine": "http://127.0.0.1:3000",
+    "first_page": "https://dummyimage.com/",
+    "items_on_page": 1,
+    "infinite": false,
+    "infinite_scroll": 0,
+    "paginate": false,
+    "paginate_limit": 0,
+    "record": true,
+    "recording": "https://owlengine.com/api/proxy?url=/resources/videos/capture-website-element-and-fullscreen-69c7fba7b647.mp4",
+    "result": [
+        {
+            "title": "Dynamic Dummy Image Generator - DummyImage.com",
+            "url": "https://dummyimage.com/",
+            "page": 1,
+            "duration": 10400,
+            "content": [
+                {
+                    "type": "image",
+                    "length": 6002,
+                    "name": "preview",
+                    "content": "https://owlengine.com/api/proxy?url=/resources/images/capture-website-element-and-fullscreen-69c7fba7b647-0-preview.jpeg"
+                },
+                {
+                    "type": "image",
+                    "length": 77059,
+                    "name": "ad-table",
+                    "content": "https://owlengine.com/api/proxy?url=/resources/images/capture-website-element-and-fullscreen-69c7fba7b647-0-ad-table.jpeg"
+                },
+                {
+                    "type": "image",
+                    "length": 1103000,
+                    "name": "fullscreen",
+                    "content": "https://owlengine.com/api/proxy?url=/resources/images/capture-website-element-and-fullscreen-69c7fba7b647-0-fullscreen.jpeg"
+                }
+            ]
+        }
+    ],
+    "usage": {
+        "disk": {
+            "images": 1186061,
+            "videos": 7382850
+        },
+        "bandwidth": {
+            "document": 864,
+            "image": 1766,
+            "other": 789,
+            "script": 2429,
+            "stylesheet": 1062
+        }
+    }
+}
